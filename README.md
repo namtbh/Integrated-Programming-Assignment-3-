@@ -14,9 +14,13 @@
             padding: 20px;
             background-color: #f9f9f9;
         }
-        h1, h2, h3 {
+
+        h1,
+        h2,
+        h3 {
             color: #333;
         }
+
         code {
             background-color: #f0f0f0;
             padding: 2px 4px;
@@ -26,7 +30,6 @@
 </head>
 
 <body>
-
     <h1>README for BST, AVL Tree, and Max Heap Implementation</h1>
 
     <h2>Overview</h2>
@@ -62,6 +65,12 @@
     <h2>License</h2>
     <p>For educational purposes only.</p>
 
+    <footer>
+        <p>© 2024 GitHub, Inc.</p>
+        <nav>
+            <a href="#">Terms</a>
+        </nav>
+    </footer>
 </body>
 
 </html>
