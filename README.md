@@ -25,15 +25,6 @@ Python 3.7+
 License
 For educational purposes only.
 
-vbnet
-Copy code
-
-### Instructions for Use:
-1. **Save the File**: Save the content in a file named `README.md` and place it in the root of your GitHub repository.
-2. **Upload to GitHub**: When uploaded, GitHub will automatically display this `README.md` on the repository's main page.
-
-This Markdown version is suitable for GitHub and follows the typical conventions used for README files on the platform, ensuring clarity and easy navigation for anyone viewing your project. Let me know if you need any additional modifications!
-
 
 
 
